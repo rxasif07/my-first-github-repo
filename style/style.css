@@ -5,3 +5,10 @@ div{
     margin: 10px;
     
 }
+.asif{
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 15px;
+    background-color: aqua;
+
+}

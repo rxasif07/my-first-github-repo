@@ -10,5 +10,11 @@ div{
     text-align: center;
     font-size: 15px;
     background-color: aqua;
+    height: 100px;
+
+}
+img{
+    height: 300px;
+    width: 300px;
 
 }
